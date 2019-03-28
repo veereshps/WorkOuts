@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RHVeeWPFWB", "RHVee\RHVeeWPFWB.csproj", "{B8FBFC1E-5E48-432A-A15E-963608C6C61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RHVeeWinF", "RHVeeWinF\RHVeeWinF.csproj", "{D9BD4F54-67B1-4768-A736-98E1DA0FA4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FBFC1E-5E48-432A-A15E-963608C6C61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FBFC1E-5E48-432A-A15E-963608C6C61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FBFC1E-5E48-432A-A15E-963608C6C61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FBFC1E-5E48-432A-A15E-963608C6C61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BD4F54-67B1-4768-A736-98E1DA0FA4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BD4F54-67B1-4768-A736-98E1DA0FA4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BD4F54-67B1-4768-A736-98E1DA0FA4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BD4F54-67B1-4768-A736-98E1DA0FA4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC72F87-E503-49BF-9598-3DE0C83A0333}
+	EndGlobalSection
+EndGlobal
